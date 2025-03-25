@@ -38,7 +38,7 @@ python typing_test.py
 
 ### Viewing the Dashboard  
 ```bash
-streamlit run dashboard.py
+python -m streamlit run dashboard.py
 ```
 - Opens a web-based dashboard for analyzing past test results.  
 - Select a username to view their typing speed history.  
